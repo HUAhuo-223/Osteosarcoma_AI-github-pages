@@ -2,7 +2,9 @@
 title: 骨肉瘤AI诊断系统
 ---
 **本系统通过高精度的骨肉瘤分析软件，提供快速、准确的辅助诊断服务，拟在解决当前骨肉瘤影像诊断难点的同时平衡医疗资源，提高骨肿瘤知识的普及**
+# 多部位诊断
+![软件界面](image/ceshi.jpg "Magic Gardens")
 # 本地软件界面
 ![软件界面](image/软件界面.png "Magic Gardens")
 # 微信小程序端
-![软件界面](image/ceshi.jpg "Magic Gardens")
+
